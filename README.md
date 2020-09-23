@@ -10,5 +10,6 @@
 
 #abrir nuevo terminal <br/>
 #ejecutar con el comando : java RemoteDateImpl <br/>
+
 #abrir nuevo terminal <br/>
 #ejecutar con el comando : java RMIClient <br/>
