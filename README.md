@@ -4,7 +4,7 @@
 #compilar los archivos con el comando: javac RemoteDate.java <br/>
 #compilar los archivos con el comando: javac RMIClient.java <br/>
 
-#ejeuctar para iniciar <br/>
+#ejecutar para iniciar <br/>
 #para windwos : start rmiregistry <br/>
 #para linux: rmiregistry <br/>
 
