@@ -1,12 +1,12 @@
-# remote
+# remote <br/>
 
-#compilar los archivos con el comando: javac RemoteDateImpl.java
-#compilar los archivos con el comando: javac RemoteDate.java
-#compilar los archivos con el comando: javac RMIClient.java
+#compilar los archivos con el comando: javac RemoteDateImpl.java <br/>
+#compilar los archivos con el comando: javac RemoteDate.java <br/>
+#compilar los archivos con el comando: javac RMIClient.java <br/>
 
-#ejeuctar para iniciar
-#para windwos : start rmiregistry
-#para linux: rmiregistry
+#ejeuctar para iniciar <br/>
+#para windwos : start rmiregistry <br/>
+#para linux: rmiregistry <br/>
 
-#ejecutar con el comando : java RemoteDateImpl
-#ejecutar con el comando : java RMIClient
+#ejecutar con el comando : java RemoteDateImpl <br/>
+#ejecutar con el comando : java RMIClient <br/>
